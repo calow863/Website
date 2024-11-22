@@ -4,3 +4,4 @@ Zachary, Chase <br>
 <br>
 11/14 setup site<br>
 11/14 downloaded files<br>
+11/22 Finished & added warrenty pages
